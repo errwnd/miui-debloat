@@ -14,7 +14,6 @@ for %%x in (
 "com.miui.msaglobal"
 "com.miui.msa.global"
 "com.miui.clodservice"
-"com.xiaomi.glgm"
 "com.xiaomi.payment"
 "cn.wps.xiaomi.abroad.lite"
 "com.xiaomi.midrop"
